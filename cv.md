@@ -1,23 +1,35 @@
 # Kanybek Kanybek
-___
+
+
+
 ## Contacts
-___
-* **Location**: Bishkek, Kygyzstan
-___
+
+
+
+* **Location:** Bishkek, Kyrgyzstan
+
+
+
 ## About Me
-___
-I'm a junior front-end developer
-___
+
+
+I am a junior front-end developer.
+
+
+
 ## Skills
-___
+
+
 * HTML
 * CSS
-* GIT
+* Git
 * JavaScript
-___
-## Experience
-___
-## Languages
-___
-**English** B2, **Russian** C2
 
+
+## Experience
+
+
+## Languages
+
+* **English:** B2
+* **Russian:** C2
