@@ -17,7 +17,7 @@ ___
 ___
 ## Experience
 ___
-## English
+## Languages
 ___
-**B2**
+**English** B2, **Russian** C2
 
